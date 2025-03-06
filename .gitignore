@@ -1,0 +1,22 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Unity metadata
+*.cs.meta
+*.unityproj
+*.sln
+*.userprefs
+*.pidb
+*.svd
+*.pdb
+
+# Ignore system files
+.DS_Store
+Thumbs.db
